@@ -1,0 +1,32 @@
+#gra1{
+    height: 200px;
+    background-image: linear-gradient( red,yellow,aqua);
+}
+#gra2{
+    height: 200px;
+    background-image: linear-gradient(to top right,red,aqua);
+}
+#gra3{
+    height: 200px;
+    background-image: linear-gradient(to left,blue,purple);
+}
+#gra4{
+    height: 200px;
+    background-image: linear-gradient(to top,yellow,green);
+}
+#gra5{
+    height: 200px;
+    background-image: linear-gradient(to bottom,blue,aqua);
+}
+#gra6{
+    height: 200px;
+    background-image: linear-gradient(to top left, aqua 50%, blue )
+}
+#gra7{
+    height: 200px;
+    background-image: radial-gradient(blue,aqua,green);
+}
+#gra8{
+    height: 1000px;
+    background-image: radial-gradient(circle, blue,aqua,green);
+}
